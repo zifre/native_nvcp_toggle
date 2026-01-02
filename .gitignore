@@ -1,0 +1,19 @@
+# Build artifacts
+*.exe
+*.obj
+*.res
+*.pdb
+*.ilk
+
+# NVAPI SDK (users must download separately)
+nvapi/
+
+# IDE folders
+.vs/
+.vscode/
+build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
